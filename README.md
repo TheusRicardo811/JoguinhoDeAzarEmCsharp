@@ -1,3 +1,6 @@
+# Alterações #
+Fiz uma opção de jogar novamente ao final da partida.
+Dica para o jogador, mostrando a diferença entre o chute e o número aleatório
 # Jogo de Sorte - C#
 
 Este é um simples jogo de sorte desenvolvido em C# para console, onde o jogador tenta adivinhar um número aleatório gerado pelo computador.
